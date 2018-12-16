@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PS.Nop.Plugin.ExternalAuth.LinkedIn/bin/Debug/netcoreapp2.1
+/.vs/PS.Nop.Plugin.ExternalAuth.LinkedIn/v15/Server/sqlite3
+/PS.Nop.Plugin.ExternalAuth.LinkedIn/obj
